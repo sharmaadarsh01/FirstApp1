@@ -4,6 +4,8 @@ import Home from './Home';
 import About from './About';
 import Count from './Count';
 import RandomName from './RandomName';
+import './App.css';
+
 
 
 export default class App extends Component {

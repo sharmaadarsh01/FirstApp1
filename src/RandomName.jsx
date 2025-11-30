@@ -14,7 +14,8 @@ export default function RandomName() {
   };
 
   return (
-    <div >
+    <div className="random-box">
+
       <h1>Random Name Generator</h1>
       <h2>{name}</h2>
       <button onClick={generateName}>Generate Random Name</button>
